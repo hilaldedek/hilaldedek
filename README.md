@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hilal
 - 👀 I’m interested in software
 - 🌱 I’m currently learning python
-- 📫 How to reach me hdedek03@gmail.com
+- 📫 How to reach me hdedek03@gmail.com and https://www.linkedin.com/in/hil%C3%A2l-d-968682227/
 - 
 
 <!---
