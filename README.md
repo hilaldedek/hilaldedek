@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Hilal
-- 👀 I’m interested in software
-- 🌱 I’m currently learning python,html,css,javascript,react
-- 📫 How to reach me hdedek03@gmail.com and https://www.linkedin.com/in/hil%C3%A2l-d-968682227/
-- 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 
 <!---
 hilitomilito/hilitomilito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
