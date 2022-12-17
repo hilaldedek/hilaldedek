@@ -15,14 +15,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<br />
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hilaldedek&theme=radical&show_icons=true)
 
-
-<br />
-<br />
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hilaldedek&theme=radical&show_icons=true) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hilaldedek&theme=dark&show_icons=true)
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hilaldedek&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
   
   
