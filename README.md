@@ -22,7 +22,7 @@
 <br />
 <br />
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hilaldedek&theme=radical&show_icons=true) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hilaldedek&theme=dark&show_icons=true)
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hilaldedek&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
   
   
