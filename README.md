@@ -19,7 +19,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hilaldedek&theme=radical&show_icons=true)
 
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hilaldedek&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hilaldedek&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
   
 ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
