@@ -38,7 +38,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: madushadhanushka
+          github_user_name: hilaldedek
           svg_out_path: dist/github-contribution-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
