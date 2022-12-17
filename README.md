@@ -18,15 +18,10 @@
 <br />
 
 
-[vsCode]: https://code.visualstudio.com/
-[git]: https://git-scm.com/
-[github]: https://github.com/IbrahimTalha0
-[python]: https://www.python.org/
-
 
 <br />
 <br />
- <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=hilaldedek&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hilaldedek&show_icons=true&theme=transparent)
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hilaldedek&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
   
   
