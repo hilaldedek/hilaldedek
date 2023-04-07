@@ -28,4 +28,5 @@
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+</br>
 ![Mario Bros (1920 x 1080)](https://user-images.githubusercontent.com/95539281/230637448-84b5850d-485a-471f-ae4f-89e1f6aecd0a.jpeg)
