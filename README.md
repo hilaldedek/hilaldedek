@@ -1,5 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=69F712&background=000000A5&width=435&lines=Hello+I'm+Hilal.;I'm+a+Frontend+developer." alt="Typing SVG" /></a>
 <br />
+![Mario Bros (1920 x 1080)](https://user-images.githubusercontent.com/95539281/230637448-84b5850d-485a-471f-ae4f-89e1f6aecd0a.jpeg)
+
 
 ### 🔧 Languages and Tools:
 
