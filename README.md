@@ -11,31 +11,12 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hilaldedek&show_icons=true&locale=en&layout=compact&theme=radical" alt="ovi" />
   
-  
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hilal dedek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hilal dedek" height="30" width="40" /></a>
-</p>
-
-
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 </br>
 ![Mario Bros (1920 x 1080)](https://user-images.githubusercontent.com/95539281/230637448-84b5850d-485a-471f-ae4f-89e1f6aecd0a.jpeg)
 
 
 
-
-
-
-
-
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hilaldedek&label=Profile%20views&color=0e75b6&style=flat" alt="hilaldedek" /> </p>
 
