@@ -15,7 +15,6 @@
 
 </br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hilaldedek&label=Profile%20views&color=0e75b6&style=flat" alt="hilaldedek" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -24,8 +23,6 @@
 <a href="https://linkedin.com/in/hilal dedek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hilal dedek" height="30" width="40" /></a>
 <a href="https://instagram.com/hilaldedek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hilaldedek" height="30" width="40" /></a>
 </p>
-
-![](https://github-contributor-stats.vercel.app/api?username=hilaldedek&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hilaldedek&icon=0&color=0)](https://visitcount.itsvg.in)
