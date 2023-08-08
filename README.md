@@ -8,6 +8,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hilaldedek&theme=radical&show_icons=true)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hilaldedek&show_icons=true&locale=en&layout=compact&theme=radical" alt="ovi" />
+
+![](https://github-contributor-stats.vercel.app/api?username=hilaldedek&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
   
 
 </br>
@@ -22,13 +25,6 @@
 <a href="https://instagram.com/hilaldedek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hilaldedek" height="30" width="40" /></a>
 </p>
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hilaldedek&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hilaldedek&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hilaldedek&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hilaldedek&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
