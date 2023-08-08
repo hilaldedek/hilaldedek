@@ -13,16 +13,9 @@
   
 
 </br>
-![Mario Bros (1920 x 1080)](https://user-images.githubusercontent.com/95539281/230637448-84b5850d-485a-471f-ae4f-89e1f6aecd0a.jpeg)
-
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hilaldedek&label=Profile%20views&color=0e75b6&style=flat" alt="hilaldedek" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hilaldedek" alt="hilaldedek" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/hilitomilito1" target="blank"><img src="https://img.shields.io/twitter/follow/hilitomilito1?logo=twitter&style=for-the-badge" alt="hilitomilito1" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
