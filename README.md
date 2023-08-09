@@ -22,11 +22,11 @@
 
 ---
 
-[![view](https://github.com/hilaldedek/hilaldedek/assets/95539281/c6e1db4a-5b0c-40ea-b953-481b05155b70)](https://open.spotify.com/track/7s1zXPRTen4WOTTzbR55EH)
 
 <p align="center">
 <a href="https://open.spotify.com/track/7s1zXPRTen4WOTTzbR55EH" target="blank">  
 	<img align="center" src="https://github.com/hilaldedek/hilaldedek/assets/95539281/c6e1db4a-5b0c-40ea-b953-481b05155b70"> 
+	------------------------------------------------------------------------------------------------------------------------
 </a> 
 </p>
 
