@@ -27,12 +27,17 @@
 <a href="https://instagram.com/hilaldedek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hilaldedek" height="30" width="40" /></a>
 </p>
 
----
-- uses: Platane/snk@v3
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
+- uses: hilaldedek/snk@v3
   with:
     # github user name to read the contribution graph from (**required**)
     # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.hilaldedek }}
+    github_user_name: ${{ github.repository_owner }}
 
     # list of files to generate.
     # one file per line. Each output can be customized with options as query string.
@@ -48,10 +53,11 @@
       dist/github-snake-dark.svg?palette=github-dark
       dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-    env:
-      # a github token is required to fetch the contribution calendar from github API
-      GITHUB_TOKEN: ${{ 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 }}
+  env:
+    # a github token is required to fetch the contribution calendar from github API
+    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+  
 ![Visitor Count](https://profile-counter.glitch.me/{hilaldedek}/count.svg)
 
 <a href="https://visitcount.itsvg.in">
