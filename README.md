@@ -10,52 +10,15 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hilaldedek&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hilaldedek&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
+---!
 
-<h3 align="center">Connect with me:</h3>
+
+[68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67](https://github.com/hilaldedek/hilaldedek/assets/95539281/b557d02e-fa64-45fe-9771-98d5668b4fc7)<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/hilitomilito1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hilitomilito1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hilal dedek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hilal dedek" height="30" width="40" /></a>
 <a href="https://instagram.com/hilaldedek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hilaldedek" height="30" width="40" /></a>
 </p>
-![Uploading 
-            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:relative" width="854" height="60" viewBox="0 0 854 60">
-                <style>
-                            .text {
-						font-size: 70px;
-						font-weight: 700;
-						font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
-					}
-					.desc {
-						font-size: 20px;
-						font-weight: 500;
-						font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
-					}path {
-						transform: rotate(180deg);
-						transform-origin: 50% 50%;
-					}
-                            
-                        </style>
-                <g transform="translate(427, 30) scale(1, 1) translate(-427, -30)">
-                    
-                                <defs>
-					<linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
-						<stop offset="0%" stop-color="#D38312"/><stop offset="100%" stop-color="#A83279"/>
-					</linearGradient>
-				</defs>
-				
-                                <path d="" fill="url(#linear)" opacity="0.4" >
-                <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="0s" values="M0 0L 0 -20Q 213.5 20 427 -10T 854 15L 854 0 Z;M0 0L 0 5Q 213.5 20 427 0T 854 -10L 854 0 Z;M0 0L 0 25Q 213.5 -5 427 25T 854 -10L 854 0 Z;M0 0L 0 -20Q 213.5 20 427 -10T 854 15L 854 0 Z"></animate>
-            </path>
-            <path d="" fill="url(#linear)" opacity="0.4" >
-                <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s" values="M0 0L 0 -5Q 213.5 40 427 10T 854 20L 854 0 Z;M0 0L 0 10Q 213.5 -20 427 -20T 854 0L 854 0 Z;M0 0L 0 5Q 213.5 -15 427 10T 854 25L 854 0 Z;M0 0L 0 -5Q 213.5 40 427 10T 854 20L 854 0 Z"></animate>
-            </path>
-                </g>
-                
-                        
-                 
-            </svg>
-        68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726.svg…]()
 
 ---
 
