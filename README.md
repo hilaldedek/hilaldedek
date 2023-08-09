@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/hilaldedek/hilaldedek/assets/95539281/c6e1db4a-5b0c-40ea-b953-481b05155b70">
+<img src="https://github-readme-stats.vercel.app/api?username=hilaldedek&theme=radical&hide_border=false&include_all_commits=true&count_private=false">
 </p>
 
   ![](https://github-readme-stats.vercel.app/api?username=hilaldedek&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
