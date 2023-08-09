@@ -20,12 +20,7 @@
   ![](https://github-readme-streak-stats.herokuapp.com/?user=hilaldedek&theme=radical&hide_border=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hilaldedek&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
-
 ---
-
-
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=614uqpp4gds0p9fuuhsa8dymu&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=614uqpp4gds0p9fuuhsa8dymu&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color_cover=false)]]
 
 
 <p align="center">
