@@ -23,7 +23,7 @@
 
 
 ---
-
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/614uqpp4gds0p9fuuhsa8dymu?si=2a8e4170e7b1438f) 
 <p align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100">
    <h3 align="center">Connect with me:</h3>
