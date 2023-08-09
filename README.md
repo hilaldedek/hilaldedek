@@ -31,7 +31,7 @@
 </p>
 <p align="center">
 <a href="https://twitter.com/hilitomilito1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hilitomilito1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hilal dedek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hilal dedek" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hilâldedek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hilal dedek" height="30" width="40" /></a>
 <a href="https://instagram.com/hilaldedek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hilaldedek" height="30" width="40" /></a>
 </p>
 
