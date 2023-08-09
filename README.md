@@ -4,6 +4,7 @@
 
 ![68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f7465722677696474683d313030](https://github.com/hilaldedek/hilaldedek/assets/95539281/a7de8e0c-7cd0-4a68-ac2a-e34890ecf550)
 
+<br/>
 
 <p align="center">
   <h2 align="center">🔧Languages and Tools:</h2>
@@ -41,6 +42,8 @@
 <a href="https://visitcount.itsvg.in" align="center">
   <img src="https://visitcount.itsvg.in/api?id=hilaldedek&label=Profile%20Views&color=10&icon=5&pretty=false" />
 </a>
+
+<br/>
 
 ![Mario_Bros_1920_x_1080](https://github.com/hilaldedek/hilaldedek/assets/95539281/ad3b6923-59ac-4485-b3c6-5da1233d2932)
 
