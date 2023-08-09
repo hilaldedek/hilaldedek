@@ -22,6 +22,8 @@
 
 ---
 
+![view](https://github.com/hilaldedek/hilaldedek/assets/95539281/c6e1db4a-5b0c-40ea-b953-481b05155b70)
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100">
