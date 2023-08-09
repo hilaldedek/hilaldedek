@@ -16,7 +16,7 @@
 ---
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><h3 align="center">Connect with me:</h3>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100" align="center"><h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/hilitomilito1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hilitomilito1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hilal dedek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hilal dedek" height="30" width="40" /></a>
