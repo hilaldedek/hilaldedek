@@ -21,7 +21,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100">
    <h3 align="center">Connect with me:</h3>
- <img src=" https://github.com/hilaldedek/hilaldedek/assets/95539281/d1874556-9687-4067-b13c-080b7b23e9aa" width="100">
+ <img src="https://i.gifer.com/XZ5V.gif" width="100">
   
 </p>
 <p align="center">
