@@ -38,13 +38,11 @@
 
 
 <a href="https://visitcount.itsvg.in" align="center">
-  <img src="[https://visitcount.itsvg.in/api?id=hilaldedek&label=Profile%20Views&color=10&icon=5&pretty=false](https://visitcount.itsvg.in/api?id=hilaldedek&icon=3&color=6)" />
+  [![](https://visitcount.itsvg.in/api?id=hilaldedek&icon=3&color=6)](https://visitcount.itsvg.in)
 </a>
 
 <br/>
 
 ![Mario_Bros_1920_x_1080](https://github.com/hilaldedek/hilaldedek/assets/95539281/ad3b6923-59ac-4485-b3c6-5da1233d2932)
-
-
 
 
