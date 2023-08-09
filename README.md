@@ -21,9 +21,9 @@
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hilaldedek&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-
-[![view](https://github.com/hilaldedek/hilaldedek/assets/95539281/c6e1db4a-5b0c-40ea-b953-481b05155b70)](https://open.spotify.com/track/7s1zXPRTen4WOTTzbR55EH)
-
+<p align="center">
+  [![view](https://github.com/hilaldedek/hilaldedek/assets/95539281/c6e1db4a-5b0c-40ea-b953-481b05155b70)]        (https://open.spotify.com/track/7s1zXPRTen4WOTTzbR55EH)
+</p>
  
 
 <p align="center">
