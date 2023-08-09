@@ -29,7 +29,7 @@
 
 ---
 
-![Visitor Count](https : //profile-counter.glitch.me/{hilaldedek}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{hilaldedek}/count.svg)
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=hilaldedek&label=Profile%20Views&color=10&icon=5&pretty=false" />
