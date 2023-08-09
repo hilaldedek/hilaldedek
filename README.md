@@ -23,7 +23,11 @@
 
 
 ---
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/614uqpp4gds0p9fuuhsa8dymu?si=2a8e4170e7b1438f) 
+
+
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=614uqpp4gds0p9fuuhsa8dymu&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=614uqpp4gds0p9fuuhsa8dymu&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color_cover=false)]]
+
+
 <p align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100">
    <h3 align="center">Connect with me:</h3>
