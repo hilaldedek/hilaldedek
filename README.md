@@ -40,7 +40,7 @@
 
  ---
 <p align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB;%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8+++%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8;%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC;%F0%9F%8D%84++%F0%9F%8D%84++%F0%9F%8D%84++%F0%9F%8D%84++%F0%9F%8D%84++%F0%9F%8D%84++%F0%9F%8D%84++%F0%9F%8D%84++%F0%9F%8D%84++%F0%9F%8D%84++%F0%9F%8D%84++%F0%9F%8D%84+%F0%9F%8D%84" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB;%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8+++%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8+++%F0%9F%8C%B8;%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC" alt="Typing SVG" /></a>
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100">
@@ -52,7 +52,7 @@
 <a href="https://instagram.com/hilaldedek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hilaldedek" height="30" width="40" /></a>
 </p>
 <p align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB;%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8+++%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8;%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC;%F0%9F%8D%84++%F0%9F%8D%84++%F0%9F%8D%84++%F0%9F%8D%84++%F0%9F%8D%84++%F0%9F%8D%84++%F0%9F%8D%84++%F0%9F%8D%84++%F0%9F%8D%84++%F0%9F%8D%84++%F0%9F%8D%84++%F0%9F%8D%84+%F0%9F%8D%84" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB;%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8+++%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8+++%F0%9F%8C%B8;%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC" alt="Typing SVG" /></a>
 </p>
 
 --- 
